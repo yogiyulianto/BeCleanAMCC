@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/kok"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".FormActivity">
 
     <ImageView
         android:layout_width="match_parent"
