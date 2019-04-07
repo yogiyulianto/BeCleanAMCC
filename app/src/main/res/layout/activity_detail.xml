@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:layout_margin="10dp"
+    android:padding="5dp"
     tools:context=".DetailActivity">
     <LinearLayout
         android:layout_margin="10dp"
         android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:src="@drawable/pantai3"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:src="@drawable/pantai4"
+            android:layout_margin="10dp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:src="@drawable/pantai4"
+            android:layout_margin="5dp"/>
 
         <View
             android:background="#000"
@@ -20,7 +36,17 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="Pantai Klayar Pacitan Jawa Timur merupakan salah satu tempat wisata di Pacitan yang mulai banyak dikenal oleh kalangan wisatawan. Pantai klayar mulai naik namanya dan banyak dituju pengunjung setelah terekspos dalam media sosial dan internet.
+
+Pantai ini masih termasuk dalam rangkaian pantai selatan, sehingga menawarkan suasana khas pantai selatan seperti ombak besar, pantai pasir putih, dan bentang pantai yang indah.
+
+Namun sekarang pantai ini mulai dipenuhi sampah. Maka dari itu saya ingin mengembalikan suasana pantai seperti dulu lagi.Disini kami butuh bantuamu."
+            android:layout_margin="5dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Uang"
+            android:layout_margin="5dp"
             android:textColor="#0C680F"
             />
         <TextView
@@ -37,6 +63,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Barang"
+            android:layout_margin="5dp"
             android:textColor="#0A4B0D"/>
         <TextView
             android:layout_width="match_parent"
@@ -52,6 +79,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Tenaga"
+            android:layout_margin="5dp"
             android:textColor="#146417"/>
         <TextView
             android:layout_width="match_parent"
@@ -63,17 +91,19 @@
             android:layout_height="1dp"
             />
         <Button
+            android:gravity="center"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="DONASI"
-            android:textColor="#09134B"
-            android:background="#121F5F"/>
+            android:layout_margin="10dp"
+            android:textColor="@color/white"
+            android:background="@color/colorPrimary"/>
 
 
     </LinearLayout>
 
 
-</LinearLayout>
+</ScrollView>
 
 
 
