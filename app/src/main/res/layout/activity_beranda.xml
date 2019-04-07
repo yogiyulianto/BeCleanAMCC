@@ -64,7 +64,7 @@
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/colorPrimary"
                         android:text="donasi"
-                        android:textColor="@color/biru"
+                        android:textColor="@color/textColor"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"/>
                     <Button
@@ -72,7 +72,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
-                        android:textColor="@color/biru"
+                        android:textColor="@color/textColor"
                         android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
@@ -129,13 +129,17 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
+                        android:textColor="@color/textColor"
                         android:layout_gravity="left"
-                        android:layout_marginRight="10dp"/>
+                        android:layout_marginRight="10dp"
+                        android:backgroundTint="@color/colorPrimary"/>
                     <Button
                         android:layout_marginLeft="160dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="detail"/>
+                        android:text="detail"
+                        android:textColor="@color/textColor"
+                        android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -191,13 +195,17 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
+                        android:textColor="@color/textColor"
                         android:layout_gravity="left"
-                        android:layout_marginRight="10dp"/>
+                        android:layout_marginRight="10dp"
+                        android:backgroundTint="@color/colorPrimary"/>
                     <Button
                         android:layout_marginLeft="160dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="detail"/>
+                        android:text="detail"
+                        android:textColor="@color/textColor"
+                        android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
         </android.support.v7.widget.CardView>
