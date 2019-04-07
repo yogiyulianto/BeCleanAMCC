@@ -64,7 +64,7 @@
                         android:layout_height="wrap_content"
                         android:backgroundTint="@color/colorPrimary"
                         android:text="donasi"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"/>
                     <Button
@@ -72,7 +72,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
@@ -129,7 +129,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"
                         android:backgroundTint="@color/colorPrimary"/>
@@ -138,7 +138,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
@@ -195,7 +195,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"
                         android:backgroundTint="@color/colorPrimary"/>
@@ -204,7 +204,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
-                        android:textColor="@color/textColor"
+                        android:textColor="@color/white"
                         android:backgroundTint="@color/colorPrimary"/>
                 </LinearLayout>
             </LinearLayout>
