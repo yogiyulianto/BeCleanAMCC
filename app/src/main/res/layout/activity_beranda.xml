@@ -105,7 +105,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
-                            android:text="bersih-bersih panyai klayar"/>
+                            android:text="bersih-bersih panyai glagah"/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -120,7 +120,7 @@
                     android:layout_margin="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="ayo kita bersih-bersih pantai klayar agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
+                    android:text="ayo kita bersih-bersih pantai glagah agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -171,7 +171,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
-                            android:text="bersih-bersih panyai klayar"/>
+                            android:text="bersih-bersih panyai kuto"/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -186,7 +186,7 @@
                     android:layout_margin="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="ayo kita bersih-bersih pantai klayar agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
+                    android:text="ayo kita bersih-bersih pantai kuto agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
