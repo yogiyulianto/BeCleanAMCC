@@ -1,5 +1,5 @@
 <resources>
-<<<<<<< HEAD
+
     <string name="app_name">Be Clean</string>
 
     <string name="des">Pantai Klayar Pacitan Jawa Timur merupakan salah satu tempat wisata di Pacitan yang mulai banyak dikenal oleh kalangan wisatawan. Pantai klayar mulai naik namanya dan banyak dituju pengunjung setelah terekspos dalam media sosial dan internet.
@@ -7,12 +7,9 @@
 Pantai ini masih termasuk dalam rangkaian pantai selatan, sehingga menawarkan suasana khas pantai selatan seperti ombak besar, pantai pasir putih, dan bentang pantai yang indah.
 \n\n
 Namun sekarang pantai ini mulai dipenuhi sampah. Maka dari itu saya ingin mengembalikan suasana pantai seperti dulu lagi.Disini kami butuh bantuamu."</string>
-</resources>
-||||||| merged common ancestors
-    <string name="app_name">Be Clean</string>
-</resources>
-=======
-    <string name="app_name">Android Bottom Navigation View</string>
+
+
+
     <string name="menu">Menu</string>
     <string name="action_search">Search</string>
     <string name="action_cart">Cart</string>
@@ -25,4 +22,4 @@ Namun sekarang pantai ini mulai dipenuhi sampah. Maka dari itu saya ingin mengem
         <string name="icon_home">Home</string>
         <string name="icon_chat">chat</string>
 </resources>
->>>>>>> 43dc405cb27d1dfcc2398b912e755085e4c2d540
+
