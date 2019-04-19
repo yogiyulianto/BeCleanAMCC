@@ -46,10 +46,11 @@
                             android:text="oleh aji"/>
                     </LinearLayout>
                 </LinearLayout>
+
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/pantai3"/>
+                    android:src="@drawable/pantai3" />
                 <TextView
                     android:layout_margin="4dp"
                     android:layout_width="match_parent"
@@ -60,20 +61,23 @@
                     android:layout_height="wrap_content"
                     android:padding="10dp">
                     <Button
+                        android:id="@+id/btn_donasi1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:backgroundTint="@color/colorPrimary"
+                        android:backgroundTint="@color/pink"
                         android:text="donasi"
                         android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"/>
+
                     <Button
-                        android:layout_marginLeft="160dp"
+                        android:id="@+id/btn_detail1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_marginLeft="120dp"
+                        android:backgroundTint="@color/colorPrimary"
                         android:text="detail"
-                        android:textColor="@color/white"
-                        android:backgroundTint="@color/colorPrimary"/>
+                        android:textColor="@color/white" />
                 </LinearLayout>
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -105,11 +109,11 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
-                            android:text="bersih-bersih panyai klayar"/>
+                            android:text="bersih-bersih pantai glagah"/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="oleh aji"/>
+                            android:text="oleh royyan"/>
                     </LinearLayout>
                 </LinearLayout>
                 <ImageView
@@ -120,21 +124,23 @@
                     android:layout_margin="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="ayo kita bersih-bersih pantai klayar agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
+                    android:text="ayo kita bersih-bersih pantai glagah agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="10dp">
                     <Button
+                        android:id="@+id/btn_donasi2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
                         android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"
-                        android:backgroundTint="@color/colorPrimary"/>
+                        android:backgroundTint="@color/pink"/>
                     <Button
-                        android:layout_marginLeft="160dp"
+                        android:id="@+id/btn_detail2"
+                        android:layout_marginLeft="120dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
@@ -171,11 +177,11 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:textStyle="bold"
-                            android:text="bersih-bersih panyai klayar"/>
+                            android:text="bersih-bersih pantai kuto"/>
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="oleh aji"/>
+                            android:text="oleh milea"/>
                     </LinearLayout>
                 </LinearLayout>
                 <ImageView
@@ -186,21 +192,23 @@
                     android:layout_margin="4dp"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="ayo kita bersih-bersih pantai klayar agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
+                    android:text="ayo kita bersih-bersih pantai kuto agar kembali asri, ayo kita bersih-bersih pantai klayar agar kembali asri"/>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="10dp">
                     <Button
+                        android:id="@+id/btn_donasi3"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="donasi"
                         android:textColor="@color/white"
                         android:layout_gravity="left"
                         android:layout_marginRight="10dp"
-                        android:backgroundTint="@color/colorPrimary"/>
+                        android:backgroundTint="@color/pink"/>
                     <Button
-                        android:layout_marginLeft="160dp"
+                        android:id="@+id/btn_detail3"
+                        android:layout_marginLeft="120dp"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="detail"
